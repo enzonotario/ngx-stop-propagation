@@ -112,4 +112,5 @@ export const stopPropDirectives = [
   StopPropClickDirective,
   StopPropChangeDirective,
   StopPropMouseoverDirective,
-  StopPropMouseenterDirective];
+  StopPropMouseenterDirective,
+  StopPropMouseleaveDirective];
